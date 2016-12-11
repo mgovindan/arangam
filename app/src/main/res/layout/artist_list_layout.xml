@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:padding="5dp"
+        android:hint="Search"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:id="@+id/searchArtist"
+        android:textColorHint="#fff"
+        android:background="@color/colorPrimaryDark"
+        android:textAlignment="center"/>
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/artist_list_view"
+        android:scrollbarThumbVertical="@color/colorPrimaryDark"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbarSize="4dp"
+        android:scrollingCache="true"/>
+</LinearLayout>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.1.0/9c665b797ef9427f6d73572642dcb5f90270f7d3/moshi-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c665b797ef9427f6d73572642dcb5f90270f7d3">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-1.1.0_c38a4daa4e7ed0754353f8ccdcba2afd779717bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.5/6edffc576ce104ec769d954618764f39f0f0f10d/slf4j-log4j12-1.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6edffc576ce104ec769d954618764f39f0f0f10d">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-log4j12-1.7.5_b191c0f68d89492d639b6268c83b22fdf5952e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_e6066da525b947bd3ca126d967b4c8941496bce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_c83839978b99c411f0a864f6a4ade7547148a8c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_38b48394c5b28f12d3d0663dc130a35e4bbb0fff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.1.3_5aa8ad388db1386975b25eddf0a1fa2b964567b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.uber.sdk/core-android/0.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40d9be371bbc37ed64c423b31ac34f6ec9c71dd6">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.uber.sdk-core-android-0.5.3_5b045a2a8017742e85ce01ca7fb30acfd83ce0ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f6e40c50f4b0165b45877bf6bfec990b667413bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.6.0_2e2dc4b77013af07f40e28ce7fddd0c669f90e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/log4j-1.2.17_0121f533aea46c843076165eeb58f97c364d03c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_11156c35e09742d166eb39b161870b670806b693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_2f7e17bf635451e61d7e413da730741c07ff59aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e3f34ae0563b6708d865967282473d881910d783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_45e8695ed1f349099e09e3f4794dbd7d980b4460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.8.0_8c977b89996964116453deb4f795d54acbb004de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.uber.sdk/rides/0.5.2/7b982f0f54dc2daef68a6625bb5de88f4ad6ada8/rides-0.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7b982f0f54dc2daef68a6625bb5de88f4ad6ada8">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/rides-0.5.2_f13b4e84527124c63c49472ae3516536e140d8df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.uber.sdk/rides-android/0.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5d426747c2c9f153a30b6bd7776790d2c3e87e82">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.uber.sdk-rides-android-0.5.3_9f6bd0d2cbe497392d687e28519092a58cc2ae3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e99413cdc93bd7b001d312a4a33d25ac21042f69">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.2_76a53aa122e39a25f3948cafdd6193f0d7e939ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d18ba1d0eff55680fdf9a35f70a6091e4bc1adcb">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.5_a9d2c1d376d641479253663d10b8a327e2436fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_bed58ccae4790b0d569dd9cf8a9bbe0fb92cac85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_c1c2addc65ba8f4452b8368528e9d251a4310497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_147e8cbf1ea124cc57f193755443b215b50f41b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_f29fa6f1697f0cfc8f5351db13203302ca4938ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.19.0_6aff1b16a8cd8bc8f67bf629d38f0e8b18e5a2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.10_32d26002a5007b92d46e4ab40ce459a00464c327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_724d11d34ce62efd9ee78f48e5648b59dcbe17a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b272ca6a1525f5c6215224eb3cfeb32eb5270667">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.3_43e83740c32de0d2d58d32f3623236f266c8c60c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.19.0_305f4a7546f1f6722156f2b09709def970ca1928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_09ff6c77fc170bde22743a904682d2c2974af70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0c7f9fb9a729166c69fa585e01be2fe8fab4f45c">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.5.2_f7c9eed64aa7cb6a43a481b74c347adc9f9194cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b61390b0f20c34d0062d19dfe033e1d1ee752683">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8a0dc906b1b8b0718b568a4705627e542bccd04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_ded343ae1438488f34f0b3cc110517046b9896eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.19.0_cc77a8e71ead12a05342baa22a26a202489099dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_fc6f7cf3ebc30a49acf216a9cbf886394bb2d509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.0.2/f956770d1309927879550cdfa0144b63ac891654/converter-moshi-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f956770d1309927879550cdfa0144b63ac891654">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-moshi-2.0.2_ddb2124a9c9e88e3cb0ad8003cb56b8a7e8d8ca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.5_32909f30065ce70f190f9617782c1a7b7c5d897b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Downloads/Available/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="094a766a79ba9e0dc5777dd80940b42f5e515503">
+        <dex dex="/home/krishna/Downloads/Available/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef9aabcba0d232a09734920ebaf13efdf6fb3678/classes.dex" />
+    </item>
+
+</items>

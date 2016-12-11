@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#106B88</color>
+    <color name="colorPrimaryDark">#106B88</color>
+    <color name="colorAccent">#106B88</color>
+    <color name="TabBackgroundColor">#F5F5F5</color>
+    <color name="rowbackgroundcolor">#FFFFFF</color>
+    <color name="buttonbackgroundcolor">#106B88</color>
+    <color name="buttonPress">#106B88</color>
+    <color name="buttonUnPress">#D6D6D6</color>
+
+
+</resources>
